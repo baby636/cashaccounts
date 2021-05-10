@@ -15,7 +15,7 @@
     "bitbox-sdk": "^8.4.2",
     "bitcoin-cash-rpc": "^0.4.2",
     "bitcoincashjs-lib": "https://github.com/Bitcoin-com/bitcoincashjs-lib.git",
-    "cashaddrjs": "^0.3.3"
+    "cashaddrjs": "^0.4.4"
   },
   "keywords": [
     "bitcoin",
