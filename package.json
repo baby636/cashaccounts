@@ -12,7 +12,7 @@
     "axios": "^0.19.0",
     "base58check": "^2.0.0",
     "bchaddrjs-slp": "https://github.com/simpleledger/bchaddrjs.git",
-    "bitbox-sdk": "^8.4.2",
+    "bitbox-sdk": "^8.8.0",
     "bitcoin-cash-rpc": "^0.4.2",
     "bitcoincashjs-lib": "https://github.com/Bitcoin-com/bitcoincashjs-lib.git",
     "cashaddrjs": "^0.3.3"
